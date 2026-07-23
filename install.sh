@@ -17,3 +17,4 @@ link() {
 
 link .bashrc
 link .gitconfig
+link .coder-shutdown.sh
